@@ -48,11 +48,11 @@
   align-items: center;
 }
 
-/** box3 **/
+/** box3 yaha **/
 .nav-search {
   display: flex;
   justify-content: space-evenly;
-  background-color: pink;
+  background-color: black;
   width: 620px;
   height: 40px;
   border-radius: 4px;
@@ -254,5 +254,5 @@ ul a {
 
 .backtotop{
 
-  color: #090303;
+  color: black;
 }
