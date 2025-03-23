@@ -1,1 +1,2 @@
 alert("Our website is currently under development, and some key features are still being worked on. We're actively improving the site and appreciate your patience. Check back soon for a more complete experience! Thank you for understanding ")
+prompt("Drop you feedback for our website")
